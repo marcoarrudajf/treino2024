@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\Treinamento2024\Treinamentos\Treinamentos\bin\Debug\net6.0\Treinamentos.exe
+C:\Users\Marco\Documents\Treinamento2024\Treinamentos\Treinamentos\bin\Debug\net6.0\Treinamentos.deps.json
+C:\Users\Marco\Documents\Treinamento2024\Treinamentos\Treinamentos\bin\Debug\net6.0\Treinamentos.runtimeconfig.json
+C:\Users\Marco\Documents\Treinamento2024\Treinamentos\Treinamentos\bin\Debug\net6.0\Treinamentos.dll
+C:\Users\Marco\Documents\Treinamento2024\Treinamentos\Treinamentos\bin\Debug\net6.0\Treinamentos.pdb
+C:\Users\Marco\Documents\Treinamento2024\Treinamentos\Treinamentos\obj\Debug\net6.0\Treinamentos.csproj.AssemblyReference.cache
+C:\Users\Marco\Documents\Treinamento2024\Treinamentos\Treinamentos\obj\Debug\net6.0\Treinamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\Treinamento2024\Treinamentos\Treinamentos\obj\Debug\net6.0\Treinamentos.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\Treinamento2024\Treinamentos\Treinamentos\obj\Debug\net6.0\Treinamentos.AssemblyInfo.cs
+C:\Users\Marco\Documents\Treinamento2024\Treinamentos\Treinamentos\obj\Debug\net6.0\Treinamentos.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\Treinamento2024\Treinamentos\Treinamentos\obj\Debug\net6.0\Treinamentos.dll
+C:\Users\Marco\Documents\Treinamento2024\Treinamentos\Treinamentos\obj\Debug\net6.0\refint\Treinamentos.dll
+C:\Users\Marco\Documents\Treinamento2024\Treinamentos\Treinamentos\obj\Debug\net6.0\Treinamentos.pdb
+C:\Users\Marco\Documents\Treinamento2024\Treinamentos\Treinamentos\obj\Debug\net6.0\Treinamentos.genruntimeconfig.cache
+C:\Users\Marco\Documents\Treinamento2024\Treinamentos\Treinamentos\obj\Debug\net6.0\ref\Treinamentos.dll
