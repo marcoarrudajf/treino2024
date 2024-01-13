@@ -4,8 +4,10 @@
     {
         static void Main(string[] args)
         {
-            NumeroPrimo numeroPrimo = new NumeroPrimo();
-            numeroPrimo.numPrimos();
+            //NumeroPrimo numeroPrimo = new NumeroPrimo();
+            //numeroPrimo.numPrimos();
+            SubstituirVetor substituirVetor = new SubstituirVetor();
+            substituirVetor.numeroPositivo();
         }
     }
 }
