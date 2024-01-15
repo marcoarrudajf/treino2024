@@ -1,13 +1,15 @@
 ﻿namespace Treinamentos
 {
-     class Program
+    class Program
     {
         static void Main(string[] args)
         {
             //NumeroPrimo numeroPrimo = new NumeroPrimo();
             //numeroPrimo.numPrimos();
-            SubstituirVetor substituirVetor = new SubstituirVetor();
-            substituirVetor.numeroPositivo();
+            //SubstituirVetor substituirVetor = new SubstituirVetor();
+            //substituirVetor.numeroPositivo();
+            PreencherVetor preencherVetor = new PreencherVetor();
+            preencherVetor.preencherVet();
         }
     }
 }

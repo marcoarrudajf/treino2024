@@ -1,0 +1,5 @@
+C:\Users\Marco\Documents\Treinamento2024\Treinamentos\Treinamentos\obj\Release\net6.0\Treinamentos.csproj.AssemblyReference.cache
+C:\Users\Marco\Documents\Treinamento2024\Treinamentos\Treinamentos\obj\Release\net6.0\Treinamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\Treinamento2024\Treinamentos\Treinamentos\obj\Release\net6.0\Treinamentos.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\Treinamento2024\Treinamentos\Treinamentos\obj\Release\net6.0\Treinamentos.AssemblyInfo.cs
+C:\Users\Marco\Documents\Treinamento2024\Treinamentos\Treinamentos\obj\Release\net6.0\Treinamentos.csproj.CoreCompileInputs.cache
