@@ -8,8 +8,10 @@
             //numeroPrimo.numPrimos();
             //SubstituirVetor substituirVetor = new SubstituirVetor();
             //substituirVetor.numeroPositivo();
-            PreencherVetor preencherVetor = new PreencherVetor();
-            preencherVetor.preencherVet();
+            //PreencherVetor preencherVetor = new PreencherVetor();
+            //preencherVetor.preencherVet();
+            SelecaoVetor  sVet = new SelecaoVetor();
+            sVet.validarVet();
         }
     }
 }
