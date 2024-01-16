@@ -10,8 +10,10 @@
             //substituirVetor.numeroPositivo();
             //PreencherVetor preencherVetor = new PreencherVetor();
             //preencherVetor.preencherVet();
-            SelecaoVetor  sVet = new SelecaoVetor();
-            sVet.validarVet();
+            //SelecaoVetor  sVet = new SelecaoVetor();
+            //sVet.validarVet();
+            TrocaVetor tV = new TrocaVetor();
+            tV.trocarVet();
         }
     }
 }

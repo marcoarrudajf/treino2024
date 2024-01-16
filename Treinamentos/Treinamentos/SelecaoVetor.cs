@@ -8,9 +8,11 @@ namespace Treinamentos
 {
     class SelecaoVetor
     {
+        //exercicio   1174 beecrowd
         public void validarVet()
         {
             double[] vet = new double[100];
+            //percorrer um vetor de 100 posiçoes retornando apenas os valores <= 10.
             for (int i = 0; i < 100; i++)
             {
                 vet[i] = double.Parse(Console.ReadLine());
