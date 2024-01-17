@@ -12,8 +12,12 @@
             //preencherVetor.preencherVet();
             //SelecaoVetor  sVet = new SelecaoVetor();
             //sVet.validarVet();
-            TrocaVetor tV = new TrocaVetor();
-            tV.trocarVet();
+            //TrocaVetor tV = new TrocaVetor();
+            //tV.trocarVet();
+            //Fibonacci fibonacci = new Fibonacci();
+            //fibonacci.fibo();
+            PreenchimentoDeVetorII pVetor = new PreenchimentoDeVetorII();
+            pVetor.sequenciaVetor();
         }
     }
 }
