@@ -16,8 +16,10 @@
             //tV.trocarVet();
             //Fibonacci fibonacci = new Fibonacci();
             //fibonacci.fibo();
-            PreenchimentoDeVetorII pVetor = new PreenchimentoDeVetorII();
-            pVetor.sequenciaVetor();
+            //PreenchimentoDeVetorII pVetor = new PreenchimentoDeVetorII();
+            //pVetor.sequenciaVetor();
+            MenorValorVetor mValor = new MenorValorVetor();
+            mValor.menorValor();
         }
     }
 }
