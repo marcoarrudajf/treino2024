@@ -18,8 +18,13 @@
             //fibonacci.fibo();
             //PreenchimentoDeVetorII pVetor = new PreenchimentoDeVetorII();
             //pVetor.sequenciaVetor();
-            MenorValorVetor mValor = new MenorValorVetor();
-            mValor.menorValor();
+            //MenorValorVetor mValor = new MenorValorVetor();
+            //mValor.menorValor();
+            //Vetor3 vetor3 = new Vetor3();
+            //vetor3.metadeVetor();
+            MenorValor menorValor = new MenorValor();
+            menorValor.menorValor();
+
         }
     }
 }
