@@ -24,7 +24,7 @@ namespace Treinamentos
 
             for (int j = 0; j < valor.Length; j++)
             {
-                if (valor[j] < menorValor) // Compare current value with temp
+                if (valor[j] < menorValor) 
                 {
                     menorValor = valor[j];
                     pos = j;

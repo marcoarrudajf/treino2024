@@ -22,8 +22,11 @@
             //mValor.menorValor();
             //Vetor3 vetor3 = new Vetor3();
             //vetor3.metadeVetor();
-            MenorValor menorValor = new MenorValor();
-            menorValor.menorValor();
+            //MenorValor menorValor = new MenorValor();
+            //menorValor.menorValor();
+            LinhaMatriz linhaMat = new LinhaMatriz();
+            linhaMat.linhaDaMatriz();
+
 
         }
     }
