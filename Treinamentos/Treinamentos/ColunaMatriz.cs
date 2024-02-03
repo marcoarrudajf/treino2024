@@ -10,32 +10,31 @@ namespace Treinamentos
     {
         public void colunaMatriz()
         {
-            int col = int.Parse(Console.ReadLine());
-            string test = Console.ReadLine();
-            double soma = 0;
-            double media = 0;
-            double valor = 0;
+            double[,] matriz = new double[12, 12];
 
-            for (int i = 0; i <= 11; i++)
-            {                     
-                for (int j = 0; j <= col; j++)
+            int coluna = int.Parse(Console.ReadLine());
+            char operacao = char.Parse(Console.ReadLine());
+
+            for (int i = 0; i < 12; i++)
+            {
+                for (int j = 0; j < 12; j++)
                 {
-                    if (j == col)
-                    {                            
-                        valor = double.Parse(Console.ReadLine());
-                        soma = soma + valor;
-                        media = soma / 11;
-                    }                      
+                    matriz[i, j] = double.Parse(Console.ReadLine());
                 }
             }
-            if ("S".Equals(test))
+            double soma = 0.0;
+
+            for (int i = 0; i < 12; i++)
             {
-                Console.WriteLine($"{soma.ToString("F1")}");
+                soma += matriz[i, coluna];
             }
-            if ("M".Equals(test))
+
+            if (operacao == 'M')
             {
-                Console.WriteLine($"{media.ToString("F1")}");
+                soma /= 12;
             }
+
+            Console.WriteLine($"{soma:0.0}");
         }
     }
 }
